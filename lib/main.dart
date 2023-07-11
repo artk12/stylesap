@@ -16,7 +16,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter button app',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        fontFamily: 'IRANSANSX',
         useMaterial3: true,
+
       ),
       builder: (context, child) {
         return Directionality(textDirection: TextDirection.rtl, child: child!);
@@ -61,21 +63,21 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 30,
                 ),
                 AppButtonStyle.getSecondaryButton(
-                    'ارسال مجدد کد ۱:۵۳ ؟', true, () {
+                    'ارسال مجدد کد ۱:۵۳ ', true, () {
                   AppMessage.showSuccessMessage(context, 'مغایرت کد ملی و شماره موبایل');
                 }),
                 const SizedBox(
                   height: 10,
                 ),
                 AppButtonStyle.getSecondaryButton(
-                    'ارسال مجدد کد ۱:۵۳ ؟', false, () {
+                    'ارسال مجدد کد ۱:۵۳ ', false, () {
                   AppMessage.showWarningMessage(context, 'مغایرت کد ملی و شماره موبایل');
                 }),
                 const SizedBox(
                   height: 30,
                 ),
                 AppButtonStyle.getTransparentButton(
-                    'ارسال مجدد کد ۱:۵۳ ؟', true, () {
+                    'ارسال مجدد کد ۱:۵۳ ', true, () {
                   AppMessage.showDefaultMessage(context, 'مغایرت کد ملی و شماره موبایل');
                 }),
                 const SizedBox(
@@ -83,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
                 AppButtonStyle.getTransparentButton(
 
-                    'ارسال مجدد کد ۱:۵۳ ؟', false, () {}),
+                    'ارسال مجدد کد ۱:۵۳ ', false, () {}),
                 const SizedBox(
                   height: 20,
                 ),
