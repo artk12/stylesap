@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter button app',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-        fontFamily: 'IRANSANSX',
+        fontFamily: 'IRANSansXFaNum',
         useMaterial3: true,
 
       ),
@@ -57,7 +57,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 10,
                 ),
                 AppButtonStyle.getPrimaryButton('تایید', false, () {
-                  AppMessage.showErrorMessage(context, 'مغایرت کد ملی و شماره موبایل');
+                  AppMessage.showErrorMessage(context, 'مغایرت کد ملی و شماره موبایل 111');
                 }),
                 const SizedBox(
                   height: 30,
