@@ -30,7 +30,6 @@ class PrimaryButton extends StatelessWidget {
         child: Text(
           title,
           style: Theme.of(context).textTheme.bodyMedium!.copyWith(
-                letterSpacing: 0,
                 color: isActive ? Colors.black :
                 const Color(0x4f1e424f),
               ),

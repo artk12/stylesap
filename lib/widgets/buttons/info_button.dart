@@ -38,14 +38,12 @@ class InfoButton extends StatelessWidget {
               Text(
                 title,
                 style: Theme.of(context).textTheme.bodyLarge!.copyWith(
-                    letterSpacing: 0,
                     color: isActive ? const Color(0xFFF2994A) :
                     const Color(0xffAEB4C0)),
               ),
               Text(
                 caption,
                 style: Theme.of(context).textTheme.bodySmall!.copyWith(
-                    letterSpacing: 0,
                     color:
                         isActive ? const Color(0xff4F4F4F) :
                         const Color(0xFFBDBDBD)),
