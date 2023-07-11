@@ -31,7 +31,7 @@ class TransparentButton extends StatelessWidget {
           style: Theme.of(context)
               .textTheme
               .bodyMedium!
-              .copyWith(color: isActive ? const Color(0xff172B4D) :
+              .copyWith(letterSpacing: 0,color: isActive ? const Color(0xff172B4D) :
           const Color(0x4f091e42)),
         ),
       ),

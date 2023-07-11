@@ -18,7 +18,6 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         fontFamily: 'IRANSansXFaNum',
         useMaterial3: true,
-
       ),
       builder: (context, child) {
         return Directionality(textDirection: TextDirection.rtl, child: child!);

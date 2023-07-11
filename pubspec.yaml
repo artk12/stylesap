@@ -83,8 +83,6 @@ flutter:
           weight: 200
         - asset: fonts/IRANSansXFaNum-Light.ttf
           weight: 300
-        - asset: fonts/IRANSansXFaNum-Light.ttf
-          weight: 300
         - asset: fonts/IRANSansXFaNum-Medium.ttf
           weight: 400
         - asset: fonts/IRANSansXFaNum-Regular.ttf
