@@ -82,6 +82,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   height: 10,
                 ),
                 AppButtonStyle.getTransparentButton(
+
                     'ارسال مجدد کد ۱:۵۳ ؟', false, () {}),
                 const SizedBox(
                   height: 20,
