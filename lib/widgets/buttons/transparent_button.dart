@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class SecondaryButton extends StatelessWidget {
+class TransparentButton extends StatelessWidget {
   final String title;
   final Function() onPress;
   final bool isActive;
-  const SecondaryButton(
+  const TransparentButton(
       {super.key,
       required this.onPress,
       required this.title,
@@ -18,8 +18,7 @@ class SecondaryButton extends StatelessWidget {
         style: ButtonStyle(
           elevation: const MaterialStatePropertyAll<double>(0),
           backgroundColor:
-              MaterialStatePropertyAll<Color>(isActive?const Color(0xf091e42)
-                  : const Color(0x08091e42)),
+              const MaterialStatePropertyAll<Color>(Colors.transparent),
           shape: MaterialStateProperty.all<RoundedRectangleBorder>(
             RoundedRectangleBorder(
               borderRadius: BorderRadius.circular(5.0),
@@ -31,7 +30,7 @@ class SecondaryButton extends StatelessWidget {
           title,
           style: Theme.of(context)
               .textTheme
-              .bodySmall!
+              .bodyMedium!
               .copyWith(color: isActive ? const Color(0xff172B4D) :
           const Color(0x4f091e42)),
         ),
