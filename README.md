@@ -4,13 +4,12 @@ flutter demo application.
 
 **Simple pictures**
 
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 12 25 54](https://github.com/artk12/stylesap/assets/63489133/770d3deb-5c35-4f02-925d-92df66c36cd9)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 13 22 14](https://github.com/artk12/stylesap/assets/63489133/857766cd-b37a-45b9-a2c0-352a5318f0e2)
 
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 12 25 59](https://github.com/artk12/stylesap/assets/63489133/c859fe45-2b5d-4f7e-9c57-ac5a66f0f8df)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 13 22 27](https://github.com/artk12/stylesap/assets/63489133/96c83acb-8f13-45c4-a1a8-a821ead7327a)
 
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 12 26 09](https://github.com/artk12/stylesap/assets/63489133/aa005f63-d870-4026-9bbd-281b7d5400e5)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 13 22 41](https://github.com/artk12/stylesap/assets/63489133/cd017a1f-d4b7-49e2-a916-0afadd0aa879)
 
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 12 26 16](https://github.com/artk12/stylesap/assets/63489133/e86c0125-efa0-4fa6-9f77-e1cf8500a398)
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 13 22 49](https://github.com/artk12/stylesap/assets/63489133/875fef8b-0011-4ec1-ad2d-cb644d91f96f)
 
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 12 27 04](https://github.com/artk12/stylesap/assets/63489133/dacc9c47-fd50-44e6-8725-0df373b4c6a2)
-
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-07-11 at 13 22 57](https://github.com/artk12/stylesap/assets/63489133/70e51b50-0c0a-44eb-811e-a78adcd1d0b6)
